@@ -1,0 +1,5 @@
+php -S localhost:8080 -t public
+
+no navegador
+
+http://localhost:8080/auth/login.php
